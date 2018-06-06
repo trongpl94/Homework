@@ -34,8 +34,8 @@ for month in range(0,mont_input):
      for k in range(len(sheep_list_nextmonth)):
         sheep_list_nextmonth[k] += 50
     if month == mont_input:
-        final_month_flock = sheep_list
-        for x in range(0,len(sheep_list)):
+        final_month_flock = sheep_list_nextmonth
+        for x in range(0,len(sheep_list_nextmonth)):
             final_month_flock[x] += 0
         print("MONTH:",month,"\n")
         print("One month has passed, thes are my flock:", "\n")
