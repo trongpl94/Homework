@@ -1,5 +1,6 @@
 map = {'sizex':9,
        'sizey':9}
+
 player = {'x': 1,
           'y': 1}
 boxes = [
