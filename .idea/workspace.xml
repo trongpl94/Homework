@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30a8107c-0068-499f-9f7c-5ddcf0a15ef7" name="Default" comment="socoban_ko_lam_optional+code">
-      <change afterPath="$PROJECT_DIR$/skb2.py" afterDir="false" />
-    </list>
+    <list default="true" id="30a8107c-0068-499f-9f7c-5ddcf0a15ef7" name="Default" comment="socoban_ko_lam_optional+code" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,8 +32,8 @@
       <file leaf-file-name="sokoban.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sokoban.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="90" column="68" lean-forward="true" selection-start-line="90" selection-start-column="68" selection-end-line="90" selection-end-column="68" />
+            <state relative-caret-position="134">
+              <caret line="77" column="56" lean-forward="true" selection-start-line="77" selection-start-column="56" selection-end-line="77" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -79,7 +77,20 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SS4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SS4" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -221,15 +232,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49604222" weight="0.14787701" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49604222" visible="true" weight="0.14732143" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4978038" weight="0.32857144" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5021962" side_tool="true" weight="0.3984127" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49267936" visible="true" weight="0.33650795" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49267936" weight="0.34925866" />
       <window_info id="Structure" order="1" sideWeight="0.5039578" side_tool="true" weight="0.14787701" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3294893" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4978038" weight="0.3984127" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -378,8 +390,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sokoban.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="90" column="68" lean-forward="true" selection-start-line="90" selection-start-column="68" selection-end-line="90" selection-end-column="68" />
+        <state relative-caret-position="134">
+          <caret line="77" column="56" lean-forward="true" selection-start-line="77" selection-start-column="56" selection-end-line="77" selection-end-column="56" />
         </state>
       </provider>
     </entry>
